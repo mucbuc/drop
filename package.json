@@ -1,5 +1,7 @@
 {
   "scripts": {
     "test": "crimp test/test.json -g"
-  }
+  },
+  "name": "mucbuc_drop",
+  "version": "0.0.0"
 }

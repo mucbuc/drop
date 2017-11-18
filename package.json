@@ -3,5 +3,20 @@
     "test": "crimp test/test.json -g"
   },
   "name": "mucbuc_drop",
-  "version": "0.0.0"
+  "version": "0.0.1",
+  "description": "in the bucket",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mucbuc/drop.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mucbuc/drop/issues"
+  },
+  "homepage": "https://github.com/mucbuc/drop#readme"
 }

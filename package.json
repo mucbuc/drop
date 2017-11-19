@@ -2,7 +2,7 @@
   "scripts": {
     "test": "crimp test/test.json -g"
   },
-  "name": "mucbuc_drop",
+  "name": "drop",
   "version": "0.0.1",
   "description": "in the bucket",
   "main": "index.js",
